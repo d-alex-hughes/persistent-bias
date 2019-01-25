@@ -1,0 +1,8 @@
+load("/Users/douglashughes/Google Drive/1 - Current Work/David Reiley-Broockman Experiments Class/3-pastClasses/2016summer/w241-registar-experiment/registrar_bias/whiteNathanFaller_replicationFiles/voterIDexp_data_sept2014.Rdata")
+update.packages("MatchIt")
+install.packages("Matching")
+install.packages("optmatch", "RItools")
+install.packages("optmatch")
+library(optmatch)
+data(nuclearplants)
+help("nuclearplants")

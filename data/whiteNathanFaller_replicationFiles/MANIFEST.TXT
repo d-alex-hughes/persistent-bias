@@ -1,0 +1,4 @@
+Replication_main_September2014_Finalv2.R (text/plain; charset=US-ASCII) 65189 bytes.
+Replication_SI_September2014_final.R (text/plain; charset=US-ASCII) 72232 bytes.
+voterIDexp_data_sept2014.tab (text/tab-separated-values) 6554417 bytes.
+voterIDexp_data_wparty_sept2014.tab (text/tab-separated-values) 3424822 bytes.
