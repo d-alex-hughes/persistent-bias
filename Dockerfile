@@ -24,10 +24,6 @@ RUN apt-get update && \
      &&          \
     rm -rf /var/lib/apt/lists/*
 
-# RUN chmod -R 777 /usr/local/lib/R/site-library
-
-# COPY . . 
-
 USER $NB_UID
 
 # R packages
