@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d-alex-hughes/jeps-compute/cran-docker)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d-alex-hughes/persistent-bias/master)
 
 This repository builds a compute environment, and executes code against data in support of the publication _Persistent Bias Among Local Election Officials: Evidence from the 2016 General Election_.
 

@@ -1,0 +1,55 @@
+registrar_id: unique key for each local election official
+message_version: message version, one of 27 variants generated, documented in appendix
+sender_email: email address of the purpoted voter 
+sender_name: name of the purported voter 
+sender_url: url linked in the tracking pixel
+blockID: identifying block feature for block randomization
+clinton_voteshare: clinton two party vote share in 2016 election 
+state: state indicator
+dens_log: logged poulation density 
+ethnic_cue: core treatment indicator, categorical variable: 0-white; 1-latino; 2-black; 3-arab/muslim
+normalAssigned: indicator for block random assignment: was the individual assigned to a normal block? if so, recorded as 1. was the individual assigned to a residual block in the state? if so, recorded as 0. 
+obama_margin: geography 2012 obama vote share.
+pct_inc2pov*: geography share of the federal poverty level; all values sum to one. 
+  _000: 0% of the federal poverty line 
+  _050: 
+  _075: 
+  _100: 100% of the federal poverty line 
+  _125
+  _150
+  _175
+  _185
+  _200 
+  _300 
+  _400
+  _500: greater than 500% of the federal poverty line 
+pct_latino: percentage latino identified individuals in the geography 
+pct_nonlat: compliment of `pct_latino`  in the geography 
+pct_race_2: percent identifying as more than one race  in the geography 
+pct_race_asian: percent identifying as asian in the geography 
+pct_race_black: percent identifying as black in the geography 
+pct_race_hpi: percent identifying as hawaian and pacific islander in the geography 
+pct_race_native: percent identifying as native american
+pct_race_other: percent identifyign with another, non-identified ethnicity
+pct_race_white: percent identifying as white, non-hispanic/latino
+pct_arab: percent identifying as arab
+pop_log: logged population 
+romney_voteshare: 2012 Romney voteshare
+trump_voteshare: 2016 Trump two party vote share 
+voterid_nonstrict_nonphoto: NCSL classification of voter id strictness: not-strict, no photo ID required 
+voterid_nonstrict_photo: NCSL classification of voter id strictness: not-strict, photo ID required 
+voterid_strict_nonphoto: NCSL classification of voter id strictness: strict, no photo ID required 
+voterid_strict_photo: NCSL classification of voter id strictness: strict, photo ID required 
+vra_county
+vra_state
+vra_county_state
+Date
+From
+HitTracker
+ReadRcpt
+RecvDate
+ReplyDate
+SentDate
+RespTime
+GotResponse
+gmail_address
